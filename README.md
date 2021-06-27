@@ -1,8 +1,8 @@
 
 # Welcome to BAP Team 01
-### See future suggestions for the BAP App
-#### Designed By       : Kelvin, Grainne, Caitlin, Shannon 
-#### Technical Mentors : Toby Couchman, Nalintha Wijesinghe
+## Future suggestions for BAP App
+##### Designed By       : Kelvin, Grainne, Caitlin, Shannon 
+##### Technical Mentors : Toby Couchman, Nalintha Wijesinghe
 
 ![image 01](https://github.com/grainnem7/BapProject/blob/master/images/bap_01.png?raw=true)
 <br/>
